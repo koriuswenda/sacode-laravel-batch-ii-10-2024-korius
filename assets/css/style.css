@@ -1,5 +1,11 @@
 body{
     background-color: black;
-    background-image: url('https: //img.freepik.com/free-vector/blue-copy-space-digital-background_23-2148821698.jpg?t=st=1725876450~exp=1725880050~hmac=454357829475e5d9320fe22405903aa908893c16c29d773f90b79e54734314c9&w=740');
+    background-image: url('https: //images.unsplash.com/photo-1671882865872-3f3740f95e77?q=80&w=1330&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
     color: white;
+    font-family: Arial;
+    
+}
+.title{
+    margin-top: auto;
+
 }
