@@ -1,11 +1,21 @@
 body{
     background-color: black;
-    background-image: url('https: //images.unsplash.com/photo-1671882865872-3f3740f95e77?q=80&w=1330&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-image: url('https: //www.freepik.com/redirect?url=aHR0cHM6Ly9hZG9iZS5wcmYuaG4vY2xpY2svY2FtcmVmOjExMDBscjJpei9jcmVhdGl2ZXJlZjoxMDExbDkwMDk0L3B1YnJlZjpHQTEuMS40Njc0MjU5MTEuMTY5NjE1NjIyNy9kZXN0aW5hdGlvbjpodHRwcyUzQSUyRiUyRnN0b2NrLmFkb2JlLmNvbSUyRmlkJTJGaW1hZ2VzJTJGaWQlMkY1MjM5MDc3OTY=&client_id=GA1.1.467425911.1696156227');
     color: white;
     font-family: Arial;
     
 }
 .title{
-    margin-top: auto;
+    margin-top: 100px;
+    text-align: center ;
+    background-color: blue;
+    padding: 10px;
 
+}
+button{
+    background-color: green;
+    color: white;
+    padding: 3px;
+    text-align: center;
+    font-size: 15px;
 }
